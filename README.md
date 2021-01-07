@@ -1,3 +1,3 @@
 # TP-UTILISATEURS
 
-#Pour executer : $./user.sh BDD.xls
+Pour executer : $./user.sh BDD.xls
